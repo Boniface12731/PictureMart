@@ -3,7 +3,7 @@ import Logo from '../assets/logo.png'
 const NavBar = () => {
   return (
     <div className='flex items-center justify-between py-5 font-medium'>
-      <img src={Logo}
+      <img src='../assets/logo.png'
         alt="Picture Mart"
         className="w-36" />
     </div>
